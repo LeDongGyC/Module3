@@ -510,10 +510,9 @@ WHERE
             ma_khach_hang
         FROM
             hop_dong
-        
         WHERE
             YEAR(ngay_lam_hop_dong) < 2021
-        GROUP BY ma_khach_hang) tdlTmp);
+        GROUP BY ma_khach_hang) temp);
 
 /*19.	Cập nhật giá cho các dịch vụ đi kèm được sử dụng trên 10 lần trong năm 2020 
 lên gấp đôi.*/
@@ -593,7 +592,6 @@ WHERE
                 *
             FROM
                 v_nhan_vien) temp);
-
 /*23.	Tạo Stored Procedure sp_xoa_khach_hang dùng để xóa thông tin của một khách hàng nào 
 đó với ma_khach_hang được truyền vào như là 1 tham số của sp_xoa_khach_hang.*/
 delimiter //
