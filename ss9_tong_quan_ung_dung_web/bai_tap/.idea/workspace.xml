@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01afc456-57bf-434d-87e0-ab636c2947c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/convert_money/src/main/java/ConvertServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/dictionary/src/main/java/DictionaryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/login/src/main/java/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/login/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh/tao_trang_web_hien_thi_thoi_gian/src/main/java/ServerTimeServlet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2IUuOMYPqSAZu8uXgILVMPOCuIt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01afc456-57bf-434d-87e0-ab636c2947c4" name="Default Changelist" comment="" />
+      <created>1670248449768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670248449768</updated>
+      <workItem from="1670248450905" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="172" key="FileChooserDialogImpl" timestamp="1670248466369">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1670248466369" />
+    <state x="222" y="29" key="new project wizard" timestamp="1670248572283">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="222" y="29" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1670248572283" />
+  </component>
+</project>
