@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="784a21e6-6434-4ee3-a738-55dc48dbdbb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ung_dung_quan_ly_khach_hang/src/main/java/controller/CustomerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ung_dung_quan_ly_khach_hang/src/main/java/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ung_dung_quan_ly_khach_hang/src/main/java/service/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ung_dung_quan_ly_khach_hang/src/main/java/service/CustomerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ung_dung_quan_ly_khach_hang/src/main/webapp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ung_dung_quan_ly_khach_hang/src/main/webapp/view/create.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ung_dung_quan_ly_khach_hang/src/main/webapp/view/detail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ung_dung_quan_ly_khach_hang/src/main/webapp/view/edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ung_dung_quan_ly_khach_hang/src/main/webapp/view/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/build/libs/calculator-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10_jsp_jstl/bai_tap/calculator/build/libs/calculator-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/java/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/java/config/FilterUTF8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/java/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/java/repository/ICRUDRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/java/repository/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/java/repository/impl/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/java/service/ICRUDService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/java/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/java/service/impl/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/java/utils/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/webapp/WEB-INF/view/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/webapp/WEB-INF/view/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss12_jdbc_crud/user_managerment/src/main/webapp/WEB-INF/view/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case_db/case_study_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../case_db/case_study_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai_tap/product_managerment/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai_tap/product_managerment/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,75 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ung_dung_quan_ly_khach_hang" />
+    <property name="last_opened_file_path" value="E:/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.63" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.63" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_thuc_hanh" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56650" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,6 +122,7 @@
       <workItem from="1670649487725" duration="24000" />
       <workItem from="1670649521225" duration="11000" />
       <workItem from="1670649560203" duration="10000" />
+      <workItem from="1671629854936" duration="120000" />
     </task>
     <servers />
   </component>
@@ -63,10 +130,18 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="172" key="FileChooserDialogImpl" timestamp="1670649566795">
+    <state x="248" y="0" key="#Project_Structure" timestamp="1671629863462">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1670649566795" />
+    <state x="248" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1671629863462" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671629867525">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1671629867525" />
+    <state x="548" y="172" key="FileChooserDialogImpl" timestamp="1671629974213">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1671629974213" />
     <state x="222" y="29" key="new project wizard" timestamp="1670643166243">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

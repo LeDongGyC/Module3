@@ -259,7 +259,7 @@ của tất cả các loại dịch vụ chưa từng được khách hàng th�
 SELECT 
     dv.ma_dich_vu,
     dv.ten_dich_vu,
-    dv.dien_tich,
+    dv.dien_tich,
     dv.chi_phi_thue,
     ldv.ten_loai_dich_vu
 FROM
@@ -459,7 +459,7 @@ FROM
         LEFT JOIN
     hop_dong hd ON nv.ma_nhan_vien = hd.ma_nhan_vien
 GROUP BY nv.ma_nhan_vien
-HAVING so_hop_dong_lap_duoc < 3;
+HAVING so_hop_dong_lap_duoc <= 3;
 /*16.	Xóa những Nhân viên chưa từng lập được hợp đồng nào từ năm 2019 đến năm 2021.*/
 DELETE FROM nhan_vien 
 WHERE
